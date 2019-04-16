@@ -17,7 +17,7 @@ Example Java code using JDBC driver to test connection into cslab-db.cs.wichita.
 
 MariaDB Connector/J mariadb-java-client-2.4.1.jar file will need to be locally accessible, i.e. within the same directory as this code. The mariadb-java-client-2.4.1.jar file is already in this repository or can be downloaded directly from the [MariaDB Knowledge Base](https://downloads.mariadb.com/Connectors/java/connector-java-2.4.1/mariadb-java-client-2.4.1.jar).
 
-##Further Information
+## Further Information
 
 [About MariaDB Connector/J](https://mariadb.com/kb/en/library/about-mariadb-connector-j)
 
