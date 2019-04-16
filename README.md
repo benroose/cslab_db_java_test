@@ -22,4 +22,4 @@ Further Information
 
 ## About the Author
 
-Ben Roose modified Diego Dupin's example found in his [JDBC driver configuration error answer on mariabd.com](https://mariadb.com/kb/en/library/jdbc-driver-configuration-error/).
+Ben Roose modified Diego Dupin's example found in his [JDBC driver configuration error answer on mariadb.com](https://mariadb.com/kb/en/library/jdbc-driver-configuration-error/).
