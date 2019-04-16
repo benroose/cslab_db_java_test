@@ -1,15 +1,13 @@
 /*
 Description: Example Java code using JDBC driver to test connection into cslab-db.cs.wichita.edu database.
 
-NOTE: MariaDB Connector/J jar file will need to be locally accessible, i.e. within the same directory as this code. It can be downloaded from: https://downloads.mariadb.com/Connectors/java/connector-java-2.4.1/mariadb-java-client-2.4.1.jar
+NOTE: MariaDB Connector/J jar file will need to be locally accessible, i.e. within the same directory as this code. If you cloned the example java code repo from GitHub, then you will find it in the same directory as this file. Alternatively, the jar file can be downloaded separately from: https://downloads.mariadb.com/Connectors/java/connector-java-2.4.1/mariadb-java-client-2.4.1.jar
 
 To compile and run this code:
 $ javac test.java
 $ java -cp "mariadb-java-client-2.4.1.jar:." test
 
 For further information see: https://mariadb.com/kb/en/library/about-mariadb-connector-j/
-
-Author: Ben Roose modified Diego Dupin's example found at https://mariadb.com/kb/en/library/jdbc-driver-configuration-error/
  */
 
 import java.sql.Connection;
